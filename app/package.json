@@ -1,0 +1,8 @@
+{
+  "name": "lume",
+  "productName": "Lume",
+  "version": "1.0.0",
+  "description": "Lume: um jogo de balanço com corda, lanternas e névoa.",
+  "main": "main.js",
+  "license": "MIT"
+}
